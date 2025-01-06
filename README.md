@@ -1,3 +1,3 @@
 # VideoMagic OFX Plugins
 OpenFX plugins for VEGAS Pro and DaVinci Resolve.
-There are six sets. Distortions, Colors, Blurs, Temporal, Generate, and Retro.
+There are ten sets. Colors, Distortions, Blurs, Mosaics, Temporal, Generate, Stylizers, Retro, and Utility.
